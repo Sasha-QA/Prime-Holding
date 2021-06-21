@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/slash/IdeaProjects/automation-practice">
+
+        <classes>
+
+            <class name="BaseTest"/>
+            <class name="CartTest"/>
+            <class name="SignInTest"/>
+            <class name="CreateAnAccountTest"/>
+            <class name="ContactUsTest"/>
+
+
+        </classes>
+
+    </test>
+</suite>
